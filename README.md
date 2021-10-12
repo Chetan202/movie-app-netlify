@@ -1,5 +1,10 @@
 Hey👋 
 Checkout Movie App- https://hardcore-turing-a9439b.netlify.app/ 
+🔎Search Movie by typing name
+![image](https://user-images.githubusercontent.com/52883959/136962187-ec632f3b-8cbc-43f5-9a6a-b21af2e1e789.png)
+🎭Know the IMDB rating and actor name and many more details
+![image](https://user-images.githubusercontent.com/52883959/136962289-28adc935-72dc-4de5-a3ec-3c0fb8cb6c19.png)
+
 
 # Getting Started with Create React App
 
