@@ -112,7 +112,7 @@ const MovieinfoComponent = (props) => {
               Director : <span>{movieInfo?.Director}</span>
             </MovieInfo>
             <MovieInfo>
-              Actor : <span>{movieInfo?.Actor}</span>
+              Actor : <span>{movieInfo?.Actors}</span>
             </MovieInfo>
             <MovieInfo>
               Plot : <span>{movieInfo?.Plot}</span>
