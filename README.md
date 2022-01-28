@@ -1,5 +1,5 @@
 Hey👋 
-Checkout Movie App- https://a-z-movie-webapp.netlify.app/
+Checkout Movie App- movie-webapp-az.netlify.app
 🔎Search Movie by typing name
 ![image](https://user-images.githubusercontent.com/52883959/136962187-ec632f3b-8cbc-43f5-9a6a-b21af2e1e789.png)
 
